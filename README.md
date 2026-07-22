@@ -1,8 +1,10 @@
-<p>
-<strong>Hi, I'm Menna Yasser</strong>💖! <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJndWppZTlsYTBxcDc4ZGlsaWF2Yzd6YzAwOW90c2UwbXhiNjh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gifttps://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<table>
+<tr>
+<td width="66%">
 
+<h1>💖 Hi, I'm <strong>Menna Yasser</strong></h1>
 
-<h2>Machine Learning Engineer</h2>
+<h2> Machine Learning Engineer</h2>
 
 <blockquote>
 I started my Machine Learning journey through the DEPI Round 5 program, where I built a strong foundation in AI, Data Science, and Machine Learning.
@@ -11,6 +13,16 @@ Throughout the program, I dedicated my time to studying core concepts, working o
 
 Currently, I enjoy building practical AI projects, exploring new technologies, and applying data-driven solutions to real-world problems.
 </blockquote>
+</td>
+
+<td width="34%">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJndWppZTlsYTBxcDc4ZGlsaWF2Yzd6YzAwOW90c2UwbXhiNjh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gifttps://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+</td>
+</tr>
+</table>
+
 
 ---
 
