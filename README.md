@@ -23,19 +23,15 @@ I'm passionate about building intelligent systems that solve real-world problems
 ## 🌸 About Me
 
 ```python
-class MennaYasser:
 
-    def __init__(self):
-        self.name = "Menna Yasser"
-        self.role = "Machine Learning Engineer"
-        self.location = "Egypt"
 
-        self.languages = [
-            "Python",
-            "SQL"
-        ]
+       name = "Menna Yasser"
+       role= "Machine Learning Engineer"
+       location = "Egypt"
 
-        self.ask_me_about = [
+       languages = ["Python", "SQL"]
+
+        ask_me_about = [
             "Machine Learning",
             "Deep Learning",
             "Natural Language Processing",
@@ -45,7 +41,7 @@ class MennaYasser:
             "Artificial Intelligence"
         ]
 
-        self.tech_stack = {
+        tech_stack = {
 
             "Machine Learning": [
                 "Scikit-Learn",
@@ -91,7 +87,7 @@ class MennaYasser:
             ]
         }
 
-        self.current_focus = (
+       current_focus = (
             "Building scalable AI systems using "
             "Machine Learning, Deep Learning, NLP, "
             "Computer Vision and MLOps"
