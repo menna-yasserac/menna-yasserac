@@ -14,80 +14,35 @@ Currently, I enjoy building practical AI projects, exploring new technologies, a
 
 ## 🌸 About Me
 
-```python
+```yaml
+name: Menna Yasser
+role: Machine Learning Engineer
 
+education:
+  - DEPI Round 5
 
-       name = "Menna Yasser"
-       role= "Machine Learning Engineer"
-       location = "Cairo"
+languages:
+  - Python
+  - SQL
 
-       languages = ["Python", "SQL"]
+specializations:
+  - Machine Learning
+  - Deep Learning
+  - NLP
+  - Computer Vision
+  - MLOps
 
-        ask_me_about = [
-            "Machine Learning",
-            "Deep Learning",
-            "Natural Language Processing",
-            "Computer Vision",
-            "MLOps",
-            "Data Science",
-            "Artificial Intelligence"
-        ]
+currently_learning:
+  - Azure AI
+  - MLOps
+  - LLMs
+  - Advanced Deep Learning
 
-        tech_stack = {
+goal:
+  Build AI solutions that solve real-world problems
 
-            "Machine Learning": [
-                "Scikit-Learn",
-                "Feature Engineering",
-                "Model Evaluation",
-                "Hyperparameter Tuning"
-            ],
-
-            "Deep Learning": [
-                "TensorFlow",
-                "Keras",
-                "PyTorch"
-            ],
-
-            "NLP": [
-                "Transformers",
-                "Attention Models",
-                "Hugging Face"
-            ],
-
-            "Computer Vision": [
-                "OpenCV",
-                "CNN",
-                "Transfer Learning"
-            ],
-
-            "Data Science": [
-                "NumPy",
-                "Pandas",
-                "Matplotlib",
-                "Seaborn"
-            ],
-
-            "Cloud AI": [
-                "Azure AI Fundamentals",
-                "Azure AI Engineer Associate"
-            ],
-
-            "MLOps": [
-                "MLflow",
-                "Model Deployment",
-                "Experiment Tracking"
-            ]
-        }
-
-       current_focus = (
-            "Building scalable AI systems using "
-            "Machine Learning, Deep Learning, NLP, "
-            "Computer Vision and MLOps"
-        )
-
-        fun_fact = (
-            "I enjoy turning data into intelligent solutions "
-        )
+motto:
+  "Turning data into intelligence 🚀"
 ```
 
 ---
@@ -133,28 +88,36 @@ Currently, I enjoy building practical AI projects, exploring new technologies, a
 
 ## 🎓 DEPI Learning Journey
 
- Statistics & Linear Algebra
+<details>
+<summary><b>View Learning Path 🚀</b></summary>
 
- Python Programming
+```yaml
+Mathematics:
+  - Statistics
+  - Linear Algebra
 
- Python for Data Science, AI & Development
+Programming:
+  - Python
+  - Python for Data Science
 
- Data Preprocessing & Visualization
+Machine Learning:
+  - Data Preprocessing
+  - Visualization
+  - Machine Learning Techniques
+  - Deep Learning
 
- Machine Learning Techniques
+AI:
+  - NLP with Attention Models
+  - Computer Vision
+  - Transfer Learning
 
- Deep Learning
+Cloud & MLOps:
+  - Azure AI Fundamentals
+  - Azure AI Engineer Associate
+  - MLflow
+```
 
- NLP with Attention Models
-
- Computer Vision & Transfer Learning
-
- Azure AI Fundamentals
-
- Azure AI Engineer Associate
-
- MLflow & MLOps
-
+</details>
 ---
 
 ## 🚀 Featured Projects
