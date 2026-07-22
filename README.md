@@ -80,17 +80,9 @@ class MennaYasser:
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=menna-yasserac&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menna-yasserac&layout=compact)
-
----
-
 ### 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/menna](http://www.linkedin.com/in/menna-yasser-morsy 
+- LinkedIn: http://www.linkedin.com/in/menna-yasser-morsy 
 - GitHub: https://github.com/menna-yasserac
 
 ---
