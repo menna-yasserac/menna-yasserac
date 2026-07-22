@@ -82,16 +82,16 @@ class MennaYasser:
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=menna-yasserac&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menna-yasserac&layout=compact)
 
 ---
 
 ### 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/menna](http://www.linkedin.com/in/menna-yasser-morsy 
+- GitHub: https://github.com/menna-yasserac
 
 ---
 
