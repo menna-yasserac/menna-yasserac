@@ -19,7 +19,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
        name = "Menna Yasser"
        role= "Machine Learning Engineer"
-       location = "Egypt"
+       location = "Cairo"
 
        languages = ["Python", "SQL"]
 
@@ -85,14 +85,14 @@ I'm passionate about building intelligent systems that solve real-world problems
             "Computer Vision and MLOps"
         )
 
-        self.fun_fact = (
+        fun_fact = (
             "I enjoy turning data into intelligent solutions "
         )
 ```
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 ### Programming
 
@@ -108,26 +108,26 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ### Machine Learning
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=social&logo=scikitlearn)
 
 ### Deep Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch)
 
 ### NLP
 
-![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=social)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=social&logo=huggingface)
 
 ### Computer Vision
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv)
 
 ### Cloud & MLOps
 
-![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=social&logo=microsoftazure)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=social)
 
 ---
 
@@ -158,18 +158,6 @@ I'm passionate about building intelligent systems that solve real-world problems
 ---
 
 ## 🚀 Featured Projects
-
-### 🧠 NLP Sentiment Analysis
-Transformer-based sentiment analysis system.
-
-### 👁️ Computer Vision Classifier
-Image classification using CNNs and Transfer Learning.
-
-### 📊 End-to-End ML Pipeline
-Full ML pipeline with preprocessing, training, tracking and deployment.
-
-### 🤖 AI Assistant
-LLM-powered intelligent assistant.
 
 ---
 
