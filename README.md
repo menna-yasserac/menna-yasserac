@@ -1,213 +1,98 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2>👋 Hi, I'm Menna Yasser!</h2>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 📫 Like to meet me?
+### 🚀 Machine Learning Engineer in Progress
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+I'm passionate about Artificial Intelligence, Machine Learning, and solving real-world problems using data.
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-  name: "Anmol Pratap Singh",
-  pronouns: ["he", "him"],
-  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
-  askMeAbout: [
-    "web development",
-    "mobile app development",
-    "cloud architecture",
-    "generative AI",
-    "agentic systems",
-    "SaaS products",
-    "system design"
-  ],
-
-  technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
-      uiLibraries: [
-        "Material UI",
-        "Ant Design",
-        "Chakra UI",
-        "shadcn/ui"
-      ]
-    },
-
-    backend: {
-      node: ["Node.js", "Express", "NestJS"],
-      python: ["Flask"]
-    },
-
-    mobile: {
-      crossPlatform: ["Flutter"]
-    },
-
-    devOps: {
-      tools: ["Docker", "GitHub Actions", "Nginx"],
-      practices: ["CI/CD", "Infrastructure as Code"]
-    },
-
-    cloud: {
-      aws: [
-        "EC2",
-        "S3",
-        "RDS",
-        "Lambda",
-        "Fargate",
-        "CloudWatch"
-      ],
-      gcp: [
-        "Compute Engine",
-        "Cloud Run",
-        "Cloud Functions",
-        "Cloud Storage",
-        "Firestore",
-        "BigQuery"
-      ]
-    },
-
-    databases: {
-      relational: ["PostgreSQL"],
-      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
-      inMemory: ["Redis"]
-    },
-
-    realtimeAndAPIs: [
-      "REST APIs",
-      "WebSockets",
-      "Socket.IO"
-    ],
-
-    ai: {
-      generativeAI: [
-        "LLM integration",
-        "Prompt engineering",
-        "Vector databases",
-        "AI agents",
-        "Workflow automation"
-      ],
-      architectures: [
-        "agentic architecture",
-        "tool-augmented agents",
-        "multi-agent systems"
-      ],
-      models: ["OpenAI", "Gemini", "Llama"]
-    }
-  },
-
-  architecture: {
-    frontend: ["SPA", "SSR"],
-    backend: ["monolith", "microservices", "serverless"],
-    cloudPatterns: [
-      "event-driven",
-      "agentic systems",
-      "scalable SaaS"
-    ],
-    data: ["relational", "nosql", "in-memory"]
-  },
-currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
-funFact: "Most bugs disappear after a coffee and a clean commit history"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+Currently building my skills in:
+- Machine Learning
+- Data Analysis
+- Deep Learning
+- Python Development
+- Mathematics for AI
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C369%20hrs%206%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-430-blue?style=flat)
+### 💻 About Me
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.63%20million%20lines%20of%20code-blue?style=flat)
+```python
+class MennaYasser:
 
-**🐱 My GitHub Data** 
+    name = "Menna Yasser"
+    role = "Machine Learning Engineer (Learning & Building)"
+    location = "Egypt"
 
-> 📦 391.2 kB Used in GitHub's Storage 
- > 
-> 🏆 769 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 33 Private Repositories 
- > 
-**I'm an Early 🐤** 
+    languages = [
+        "Python",
+        "SQL"
+    ]
 
-```text
-🌞 Morning                2370 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-🌆 Daytime                4643 commits        ████████░░░░░░░░░░░░░░░░░   33.36 % 
-🌃 Evening                4813 commits        █████████░░░░░░░░░░░░░░░░   34.59 % 
-🌙 Night                  2090 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-```
-📅 **I'm Most Productive on Sunday** 
+    libraries = [
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "Scikit-Learn"
+    ]
 
-```text
-Monday                   1632 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Tuesday                  2002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Wednesday                2012 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Thursday                 1614 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Friday                   1480 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Saturday                 2052 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Sunday                   3124 commits        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-```
+    learning = [
+        "Machine Learning",
+        "Deep Learning",
+        "Data Structures & Algorithms",
+        "MLOps"
+    ]
 
+    interests = [
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Data Science",
+        "Problem Solving"
+    ]
 
-📊 **This Week I Spent My Time On** 
+    current_focus = "Building ML projects and strengthening fundamentals"
 
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-TypeScript               1 hr 5 mins         ██████████████████████░░░   86.13 % 
-JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-
-🔥 Editors: 
-Claude Code              1 hr 5 mins         █████████████████████░░░░   85.68 % 
-WebStorm                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-
-💻 Operating System: 
-Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
+    fun_fact = "I enjoy turning math into working models 🤖"
 ```
 
-**I Mostly Code in JavaScript** 
+---
 
-```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   35.87 % 
-TypeScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-```
+### 🛠️ Technologies & Tools
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
+---
 
+### 📚 Currently Learning
 
- Last Updated on 22/07/2026 03:58:27 UTC
-<!--END_SECTION:waka-->
+- Supervised Learning
+- Unsupervised Learning
+- Feature Engineering
+- Neural Networks
+- Model Evaluation
+- MLOps Fundamentals
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+---
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+⭐ Always learning, always building.
