@@ -1,22 +1,6 @@
 ر<div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=24,20,17,13&text=Menna%20Yasser&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=FF69B4&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile+💖;Building+Intelligent+Systems+with+AI+🤖;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Computer+Vision+%7C+MLOps+%7C+Azure+AI" />
-
-</div>
-
-<br>
-
-<img align="right" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
-
-# 👋 Hi, I'm Menna Yasser
+👋 Hi, I'm Menna Yasser
 
 ###  Machine Learning Engineer
 
