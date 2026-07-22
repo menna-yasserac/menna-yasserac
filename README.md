@@ -1,6 +1,6 @@
-<h2>
-Hi,I'm Menna Yasser! <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJndWppZTlsYTBxcDc4ZGlsaWF2Yzd6YzAwOW90c2UwbXhiNjh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gifttps://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> </a><img 
-                                                                                                                                                                                                                                                                                                        src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></h2>
+<p>
+<strong>Hi, I'm Menna Yasser</strong>💖! <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJndWppZTlsYTBxcDc4ZGlsaWF2Yzd6YzAwOW90c2UwbXhiNjh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gifttps://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 ###  Machine Learning Engineer
 
@@ -173,18 +173,6 @@ LLM-powered intelligent assistant.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🏆 Certifications
 
 ---
@@ -194,15 +182,15 @@ LLM-powered intelligent assistant.
 <p align="center">
 
 <a href="http://www.linkedin.com/in/menna-yasser-morsy">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=social&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mennayasser.g7@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-FF69B4?style=plastic&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/menna-yasserac">
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=social&logo=github&logoColor=white"/>
 </a>
 
 </p>
