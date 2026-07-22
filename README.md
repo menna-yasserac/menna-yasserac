@@ -1,10 +1,6 @@
 <h2>
 Hi,I'm Menna Yasser! <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></h2>
 
-
-
-
-
 ###  Machine Learning Engineer
 
 I'm passionate about building intelligent systems that solve real-world problems using Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Computer Vision.
@@ -213,6 +209,8 @@ LLM-powered intelligent assistant.
 ---
 
 <div align="center">
-
-### 💖 Thanks for visiting my profile!
+ 
+ 💖 Thanks for visiting my profile!
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3pieWgzc2tzZjA0Z2Vub3A0NmViaGxmMjJ3NDg0dTJ4bTY2dDFvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCeVSv1kcvk1lGy6BN/giphy.gif" width="300">
 
