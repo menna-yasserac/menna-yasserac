@@ -1,13 +1,14 @@
 <p>
-<strong>Hi, I'm Menna Yasser</strong>💖! <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJndWppZTlsYTBxcDc4ZGlsaWF2Yzd6YzAwOW90c2UwbXhiNjh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gifttps://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="210">
+<strong>Hi, I'm Menna Yasser</strong>💖! <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJndWppZTlsYTBxcDc4ZGlsaWF2Yzd6YzAwOW90c2UwbXhiNjh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gifttps://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 ###  Machine Learning Engineer
 
-I'm passionate about building intelligent systems that solve real-world problems using Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Computer Vision.
+I started my Machine Learning journey through the DEPI Round 5 program, where I built a strong foundation in AI, Data Science, and Machine Learning.
 
- Currently focused on building end-to-end AI solutions and expanding my expertise in MLOps and Cloud AI technologies.
+Throughout the program, I dedicated my time to studying core concepts, working on hands-on projects, and continuously improving my technical skills in Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and MLOps.
 
+Currently, I enjoy building practical AI projects, exploring new technologies, and applying data-driven solutions to real-world problems.
 
 ---
 
@@ -130,7 +131,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ---
 
-## 🎓 Learning Journey
+## 🎓 DEPI Learning Journey
 
  Statistics & Linear Algebra
 
