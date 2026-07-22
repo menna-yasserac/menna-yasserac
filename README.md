@@ -132,7 +132,6 @@ Cloud & MLOps:
 ```
 
 </details>
----
 
 ## 🚀 Featured Projects
 
