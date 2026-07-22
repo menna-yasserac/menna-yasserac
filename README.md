@@ -188,16 +188,6 @@ LLM-powered intelligent assistant.
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=menna-yasserac&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🏆 Certifications
 
 ---
@@ -210,11 +200,11 @@ LLM-powered intelligent assistant.
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mennayasser.g7@gmail.com">
 <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/menna-yasserac">
 <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -226,6 +216,3 @@ LLM-powered intelligent assistant.
 
 ### 💖 Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Let's+Build+Amazing+AI+Solutions+Together+🚀;Machine+Learning+Engineer+%7C+AI+Enthusiast+💖" />
-
-</div>
